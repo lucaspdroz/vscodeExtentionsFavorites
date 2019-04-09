@@ -1,12 +1,18 @@
-# vscodeExtentionsFavorites
+# My Favorites VScode Extentions
 Just my favorite vsCode extensions to keep with me wherever i go 💖
 
 
-To know yours extensions, just run this command in your terminal on vsCode
+##To know yours extensions, just run this command in your terminal on VScode
 
 > code --list-extensions
 
-Now you can install you favorite extensions using
+##Now you can install you favorite extensions using
+
+> code --install-extension
+
+and the name of your extensions
+
+##My favorite Ones are
 
 > code --install-extension
 > aeschli.vscode-css-formatter
